@@ -9,3 +9,5 @@ Today I Learned
 ### os
 
 - [Shift + Esc is not working](os/Shift%20+%20Esc%20is%20not%20working.md)
+
+- [Cannot bind some unused ports in Windows](os/Cannot%20bind%20some%20unused%20ports%20in%20Windows.md)
