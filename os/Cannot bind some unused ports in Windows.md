@@ -47,3 +47,4 @@ From:
 - https://superuser.com/questions/1579346/many-excludedportranges-how-to-delete-hyper-v-is-disabled
 - https://github.com/docker/for-win/issues/3171#issuecomment-739740248
 - https://stackoverflow.com/questions/48478869/cannot-bind-to-some-ports-due-to-permission-denied
+- https://github.com/docker/for-win/issues/3171#issuecomment-554587817
